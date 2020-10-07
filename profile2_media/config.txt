@@ -1,0 +1,15 @@
+z1 left
+z2 alt-tab
+z3 right
+z9 lock
+z10 vol
+z12 vol
+z13 play/pa
+z15 next
+BG_COLOR 84 22 180
+SWCOLOR_2 0 43 255
+SWCOLOR_9 255 0 0
+SWCOLOR_10 250 255 0
+SWCOLOR_12 255 147 0
+SWCOLOR_13 52 167 50
+SWCOLOR_15 213 0 193

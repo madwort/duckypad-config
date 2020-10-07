@@ -1,0 +1,12 @@
+z4 mark-
+z6 mark+
+z7 zoom
+z8 up
+z9 zoom
+z10 left
+z11 reset
+z12 right
+z13 zoom
+z14 down
+z15 zoom
+BG_COLOR 84 22 180
