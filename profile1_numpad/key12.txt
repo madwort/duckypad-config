@@ -1,1 +1,1 @@
-STRING 6
+KP_3

@@ -1,1 +1,1 @@
-STRING y
+KP_PLUS

@@ -1,12 +1,17 @@
 z4 mark-
 z6 mark+
-z7 zoom
+z7 zoomh+
 z8 up
-z9 zoom
+z9 zoomv+
 z10 left
-z11 reset
 z12 right
-z13 zoom
+z13 zoomh-
 z14 down
-z15 zoom
+z15 zoomv-
 BG_COLOR 84 22 180
+SWCOLOR_4 255 0 219
+SWCOLOR_6 255 0 219
+SWCOLOR_8 0 255 0
+SWCOLOR_10 0 255 0
+SWCOLOR_12 0 255 0
+SWCOLOR_14 0 255 0

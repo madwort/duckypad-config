@@ -1,1 +1,1 @@
-STRING 7
+KP_4

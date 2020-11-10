@@ -1,1 +1,1 @@
-STRING h
+KP_SLASH

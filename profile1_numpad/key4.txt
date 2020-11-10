@@ -1,1 +1,1 @@
-STRING a
+KP_7

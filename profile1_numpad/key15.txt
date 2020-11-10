@@ -1,1 +1,1 @@
-STRING 3
+KP_ENTER

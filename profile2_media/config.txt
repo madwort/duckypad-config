@@ -1,15 +1,25 @@
 z1 left
 z2 alt-tab
 z3 right
+z4 tab-l
+z5 current
+z6 tab-r
+z7 cmd
+z8 tab
 z9 lock
-z10 vol
-z12 vol
+z10 vol-
+z12 vol+
 z13 play/pa
+z14 prev
 z15 next
 BG_COLOR 84 22 180
 SWCOLOR_2 0 43 255
+SWCOLOR_5 0 255 0
+SWCOLOR_7 0 255 248
+SWCOLOR_8 0 255 248
 SWCOLOR_9 255 0 0
 SWCOLOR_10 250 255 0
 SWCOLOR_12 255 147 0
 SWCOLOR_13 52 167 50
-SWCOLOR_15 213 0 193
+SWCOLOR_14 213 0 193
+SWCOLOR_15 212 0 192

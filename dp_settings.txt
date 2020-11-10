@@ -1,1 +1,3 @@
 sleep_after_min 20
+bi 4
+kbl 3
